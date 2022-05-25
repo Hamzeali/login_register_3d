@@ -7,5 +7,5 @@ and connecting them to the Firebase using Flutter
 
 - [Youtube Project: Login and Register Flip Card](https://www.youtube.com/watch?v=YRS7BwUfL5s&list=PLhB-UOT2ZISWw2MC8gBx_M-p6P4kwLwJI)
 
-The purpose of the project is find out how the animation work with flutter
+The purpose of this project is to find out how the animation works with flutter
 and to connect the project to a database (Fire Base).
