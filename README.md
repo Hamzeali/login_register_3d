@@ -1,16 +1,11 @@
 # login_register_3d
 
-A new Flutter project.
+Small project about designing a login and register screens (with Flip Card design)
+and connecting them to the Firebase using Flutter
 
-## Getting Started
+## To check the result visit my YouTube channel
 
-This project is a starting point for a Flutter application.
+- [Youtube Project: Login and Register Flip Card](https://www.youtube.com/watch?v=YRS7BwUfL5s&list=PLhB-UOT2ZISWw2MC8gBx_M-p6P4kwLwJI)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The purpose of the project is find out how the animation work with flutter
+and to connect the project to a database (Fire Base).
